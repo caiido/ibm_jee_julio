@@ -3,6 +3,7 @@ package prueba;
 public class Hello {
 
 	
-	int num1 = 1;
+	int num1 = 2;
+
 	
 }
